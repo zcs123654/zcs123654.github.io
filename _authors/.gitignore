@@ -1,0 +1,21 @@
+# 忽略生成的站点文件
+_site/
+.sass-cache/
+
+# 忽略 Bundler 和 RubyGems 相关文件
+.bundle/
+vendor/
+
+# 忽略日志和临时文件
+*.log
+*.tmp
+*.pid
+*.gem
+.DS_Store
+
+# 忽略 Jekyll 缓存
+.jekyll-cache/
+.jekyll-metadata
+
+# 忽略系统文件
+Thumbs.db
